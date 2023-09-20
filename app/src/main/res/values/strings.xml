@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">login_room</string>
+    <string name="app_name">GAS</string>
+    <string name="welcome">Welcome</string>
+    <string name="email_id">Email ID</string>
+    <string name="email_subject">Email Subject</string>
+    <string name="email_body">Email Body</string>
+    <string name="email">Email ID</string>
+    <string name="send">Send email</string>
 </resources>
